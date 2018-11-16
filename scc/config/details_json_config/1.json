@@ -1,0 +1,8 @@
+{
+  "title_xpath":{"type_size":1,"xpath0":"//tbody/tr/td/table[1]/tbody/tr[3]/td[2]/text()"},
+  "pub_time_xpath":{"type_size":1,"xpath0":"//tbody/tr/td/table[1]/tbody/tr[4]/td[4]/text()"},
+  "content_xpath":{"type_size":1,"xpath0":"//*[@class=\"b12c\"]"},
+  "issued_number_xpath":{"type_size":1,"xpath0":"//tbody/tr/td/table[1]/tbody/tr[4]/td[2]/text()"},
+  "content_source_xpath":{"type_size":0},
+  "issued_unit_xpath":{"type_size":1,"xpath0":"//tbody/tr/td/table[1]/tbody/tr[2]/td[2]/text()"}
+}

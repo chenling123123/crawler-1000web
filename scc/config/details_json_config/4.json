@@ -1,0 +1,8 @@
+{
+  "title_xpath":{"type_size":2,"xpath0":"//div[1]/div[2]/h1/text()","xpath1":"//table[1]/tbody/tr[3]/td[2]/text()"},
+  "pub_time_xpath":{"type_size":2,"xpath0":"//tbody/tr[4]/td[4]/text()","xpath1":"//div[1]/div[2]/div[1]/text()"},
+  "content_xpath":{"type_size":2,"xpath0":"//*[@id=\"UCAP-CONTENT\"]","xpath1":"//*[@class=\"b12c\"]"},
+  "issued_number_xpath":{"type_size":1,"xpath0":"//table[1]/tbody/tr[4]/td[2]/text()"},
+  "content_source_xpath":{"type_size":0,"interception_first":"来源：","interception_last":"<"},
+  "issued_unit_xpath":{"type_size":1,"xpath0":"//tbody/tr[2]/td[2]/text()"}
+}

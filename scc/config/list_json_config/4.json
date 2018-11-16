@@ -1,0 +1,19 @@
+{
+  "web_format":"html",
+  "start_url":"http://sousuo.gov.cn/column/30469/0.htm",
+  "url":"http://sousuo.gov.cn/column/30469/%s.htm",
+  "first_page_num":"1",
+  "last_page_num":"11",
+  "gap":"1",
+  "order":0,
+  "details_url_type":"get_list",
+  "details_url":"",
+  "body_xpath":"//body/div[2]/div/div[2]/div[2]/ul/li",
+  "url_xpath":"//li/h4/a/@href",
+  "pub_time":"",
+  "data_source_name":"中央人民政府门户网站",
+  "data_source_type":"00",
+  "web_type":"国务院网站",
+  "category":"国务院",
+  "web_column":"最新政策"
+}

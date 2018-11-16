@@ -1,0 +1,19 @@
+{
+  "web_format":"html",
+  "start_url":"http://gjss.ndrc.gov.cn/ghzc/",
+  "url":"",
+  "first_page_num":"",
+  "last_page_num":"",
+  "gap":"",
+  "order":0,
+  "details_url_type":"get_list",
+  "details_url":"",
+  "body_xpath":"//*[@class=\"list_02 clearfix\"]/li",
+  "url_xpath":"//li/a/@href",
+  "pub_time":"//li/font/text()",
+  "data_source_name":"中华人民共和国国家发展和改革委员会",
+  "data_source_type":"00",
+  "web_type":"中华人民共和国国家发展和改革委员会官网",
+  "category":"国务院组成部门",
+  "web_column":"政策发布"
+}

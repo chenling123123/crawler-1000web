@@ -1,0 +1,8 @@
+{
+  "title_xpath":{"type_size":1,"xpath0":"//*[@id=\"News_Body_Title\"]/text()"},
+  "pub_time_xpath":{"type_size":1,"xpath0":"//*[@id=\"News_Body_Time\"]/text()"},
+  "content_xpath":{"type_size":1,"xpath0":"//*[@id=\"News_Body_Txt_A\"]"},
+  "issued_number_xpath":{"type_size":0},
+  "content_source_xpath":{"type_size":0},
+  "issued_unit_xpath":{"type_size":0}
+}

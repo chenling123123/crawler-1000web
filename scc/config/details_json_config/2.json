@@ -1,0 +1,8 @@
+{
+  "title_xpath":{"type_size":1,"xpath0":"//div[1]/div[2]/h1/text()"},
+  "pub_time_xpath":{"type_size":1,"xpath0":"//div[1]/div[2]/div[1]/text()"},
+  "content_xpath":{"type_size":1,"xpath0":"//*[@id=\"UCAP-CONTENT\"]"},
+  "issued_number_xpath":{"type_size":0},
+  "content_source_xpath":{"type_size":0,"interception_first":"来源：","interception_last":"<"},
+  "issued_unit_xpath":{"type_size":0}
+}

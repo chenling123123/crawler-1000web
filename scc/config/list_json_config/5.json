@@ -1,0 +1,19 @@
+{
+  "web_format":"html",
+  "start_url":"https://www.mfa.gov.cn/web/wjb_673085/zfxxgk_674865/xxgkml_674869/gfxwjl/flfg/",
+  "url":"",
+  "first_page_num":"",
+  "last_page_num":"",
+  "gap":"",
+  "order":0,
+  "details_url_type":"get_list",
+  "details_url":"",
+  "body_xpath":"//body/div[1]/div[5]/div[2]/div[2]/ul/li",
+  "url_xpath":"//li/a/@href",
+  "pub_time":"",
+  "data_source_name":"中华人民共和国外交部官网",
+  "data_source_type":"00",
+  "web_type":"中华人民共和国外交部官网",
+  "category":"国务院组成部门",
+  "web_column":"法律法规"
+}

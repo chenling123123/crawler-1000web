@@ -1,0 +1,8 @@
+{
+  "title_xpath":{"type_size":1,"xpath0":"/html/head/title/text()"},
+  "pub_time_xpath":{"type_size":0},
+  "content_xpath":{"type_size":1,"xpath0":"//*[@class=\"TRS_Editor\"]"},
+  "issued_number_xpath":{"type_size":0,"interception_first":"</font></strong></p><p align=\"center\">&nbsp;</p><p align=\"center\">","interception_last":"</p>"},
+  "content_source_xpath":{"type_size":0},
+  "issued_unit_xpath":{"type_size":0}
+}

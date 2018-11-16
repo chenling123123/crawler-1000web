@@ -1,0 +1,8 @@
+{
+  "title_xpath":{"type_size":1,"xpath0":"/html/head/title/text()"},
+  "pub_time_xpath":{"type_size":1,"xpath0":"//*[@align='left'][contains(text(),'日')]/text()"},
+  "content_xpath":{"type_size":1,"xpath0":"//*[@id=\"Zoom\"]"},
+  "issued_number_xpath":{"type_size":1,"xpath0":"//*[@align='left'][contains(text(),'号')]/text()"},
+  "content_source_xpath":{"type_size":0},
+  "issued_unit_xpath":{"type_size":0,"interception_first":"发布机构：</strong></td>","interception_last":"</td>"}
+}
